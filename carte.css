@@ -1,5 +1,5 @@
 body {
-    background-image: url(../Immagini/sfondo.PNG);       /*vh serve a dire 1% della finestra del browser, quindi in questo caso 100% della finesra*/
+    background-image: url(sfondo.PNG);       /*vh serve a dire 1% della finestra del browser, quindi in questo caso 100% della finesra*/
     background-size: cover;
     background-repeat: no-repeat; 
     background-position: center;
